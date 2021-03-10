@@ -1,6 +1,6 @@
 # avrotest
 
-A simple example using Apache Avro to send structured objects 
+A simple example of using Apache Avro to send structured objects 
 -- Java objects, in this case -- through a message broker. The example
 has two submodules, `sender` and `receiver`. You'll need to start
 (and possibly obtain) an AMQP-compatible broker, then run the
